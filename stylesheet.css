@@ -1,0 +1,9 @@
+.container {
+    border: 2px;
+    border-color: rgb(0, 0, 0);
+}
+
+.jumbotron {
+    border: 2px;
+    border-color: rgb(3, 0, 0);
+}
